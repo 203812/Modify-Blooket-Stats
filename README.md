@@ -3,7 +3,7 @@
 Blooket-modify-stats.zip
 Tools intended for use on the end-game screen. These allow modification of displayed statistics such as:
 
-- Gold amount
+- Gold amount (IN BETA)
 - Correct answers
 - Most other visible result values
 
